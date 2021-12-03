@@ -1,3 +1,3 @@
 # TIC-TAC-TOE-GAME
 A TWO PLAYER TIC TAC TOE GAME USING PYTHON AND TKINTER
-![image](https://user-images.githubusercontent.com/88609033/144546446-9b1470ed-f110-4ad4-9d14-8200832391b3.png)
+![tk 03-12-2021 10_11_38](https://user-images.githubusercontent.com/88609033/144546710-08542ef3-5490-420e-9bb1-d4d7bd0d8882.png)
